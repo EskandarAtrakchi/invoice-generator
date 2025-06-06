@@ -13,15 +13,8 @@ export default function Home() {
       <footer className="mt-8 sm:mt-10 text-center text-muted-foreground text-sm pb-4">
         <p>
           © {new Date().getFullYear()}{" "}
-          <Link
-            href="https://syigen.com"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="font-semibold hover:text-foreground transition-colors"
-          >
-            Eskandar Atrakchi
-          </Link>
-          Use it as you want, if you like it, please consider giving a star :)
+          
+            Eskandar Atrakchi. Use it as you want, if you like it, please consider giving a star :)
         </p>
       </footer>
     </main>
