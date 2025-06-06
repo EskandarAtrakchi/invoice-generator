@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: "Invoice Generator",
   description: "Generate professional invoices easily",
   icons: {
-    icon: "/favicon.ico",
+    icon: "https://github.com/EskandarAtrakchi/invoice-generator/blob/main/public/logo.png?raw=true",
   },
 }
 
