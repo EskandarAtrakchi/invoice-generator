@@ -19,9 +19,9 @@ export default function Home() {
             rel="noopener noreferrer"
             className="font-semibold hover:text-foreground transition-colors"
           >
-            SYIGEN LTD
+            Eskandar Atrakchi
           </Link>
-          . All rights reserved.
+          Use it as you want, if you like it, please consider giving a star :)
         </p>
       </footer>
     </main>
